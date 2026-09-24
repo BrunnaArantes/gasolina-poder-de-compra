@@ -344,31 +344,31 @@
 
 # ETAPA 19 — Git e GitHub
 
-- [ ] Inicializar repositório Git
-- [ ] Conferir `.gitignore`
-- [ ] Garantir que `.venv` não será versionada
-- [ ] Revisar arquivos que serão publicados
-- [ ] Fazer primeiro commit
-- [ ] Criar repositório no GitHub
-- [ ] Conectar repositório local ao GitHub
-- [ ] Fazer push
-- [ ] Conferir README no GitHub
-- [ ] Conferir arquivos do projeto
-- [ ] Adicionar descrição do repositório
-- [ ] Adicionar tópicos/tags relevantes
+- [x] Inicializar repositório Git
+- [x] Conferir `.gitignore`
+- [x] Garantir que `.venv` não será versionada
+- [x] Revisar arquivos que serão publicados
+- [x] Fazer primeiro commit
+- [x] Criar repositório no GitHub
+- [x] Conectar repositório local ao GitHub
+- [x] Fazer push
+- [x] Conferir README no GitHub
+- [x] Conferir arquivos do projeto
+- [x] Adicionar descrição do repositório
+- [x] Adicionar tópicos/tags relevantes
 
 ---
 
 # ETAPA 20 — Portfólio e LinkedIn
 
-- [ ] Criar descrição curta do projeto
-- [ ] Preparar publicação do LinkedIn
-- [ ] Escolher imagem principal
-- [ ] Destacar Python/Pandas
-- [ ] Destacar ETL
-- [ ] Destacar Power BI
-- [ ] Destacar DAX
-- [ ] Destacar dados oficiais
-- [ ] Apresentar principal descoberta sem exagerar conclusões
-- [ ] Adicionar link do GitHub
-- [ ] Adicionar projeto à seção de projetos do LinkedIn
+- [x] Criar descrição curta do projeto
+- [x] Preparar publicação do LinkedIn
+- [x] Escolher imagem principal
+- [x] Destacar Python/Pandas
+- [x] Destacar ETL
+- [x] Destacar Power BI
+- [x] Destacar DAX
+- [x] Destacar dados oficiais
+- [x] Apresentar principal descoberta sem exagerar conclusões
+- [x] Adicionar link do GitHub
+- [x] Adicionar projeto à seção de projetos do LinkedIn
